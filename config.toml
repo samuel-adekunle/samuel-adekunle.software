@@ -39,6 +39,10 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
   code_copy_button = true # Turn on/off the code-copy-button for code-fields
   
   [[params.social]]
+    name = "email"
+    url = "mailto://samueladekunle2002@yahoo.co.uk"
+
+  [[params.social]]
     name = "github"
     url = "https://github.com/SamtheSaint"
   
@@ -47,8 +51,10 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
     url = "https://www.linkedin.com/in/sam-adekunle-2002/"
 
   [[params.social]]
-    name = "email"
-    url = "mailto://samueladekunle2002@yahoo.co.uk"
+    name = "facebook"
+    url = "https://www.facebook.com/samuel.adekunle.142"
+
+
 
 [menu]
 
