@@ -12,10 +12,10 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
 [author]
   name = "Samuel Adekunle"
 
-[blackfriday]
-  hrefTargetBlank = true
-  noreferrerLinks = true
-  nofollowLinks = true
+# [blackfriday]
+#   hrefTargetBlank = false
+#   noreferrerLinks = false
+#   nofollowLinks = false
 
 [taxonomies]
   tag = "tags"
