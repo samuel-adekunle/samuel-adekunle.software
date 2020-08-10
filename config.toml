@@ -1,4 +1,4 @@
-baseURL = "https://samuel-adekunle.netlify.app/"
+baseURL = "https://samuel-adekunle.software/"
 languageCode = "en-us"
 defaultContentLanguage = "en"
 title = "Samuel Adekunle"
@@ -12,10 +12,10 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
 [author]
   name = "Samuel Adekunle"
 
-# [blackfriday]
-#   hrefTargetBlank = false
-#   noreferrerLinks = false
-#   nofollowLinks = false
+[blackfriday]
+  hrefTargetBlank = false
+  noreferrerLinks = false
+  nofollowLinks = false
 
 [taxonomies]
   tag = "tags"
