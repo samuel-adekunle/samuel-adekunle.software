@@ -26,12 +26,12 @@ As an experienced web developer, I had a myriad of options to pick from when try
 2. It should be easy to add, remove and alter blog posts
 3. It should be quick to set up and require minimal maintenance
 
-It became glaring after some research that what I needed was a static site generator. While searching through [StaticGen](https://www.staticgen.com/) for a static site generator to use, I stumbled upon [Hugo](). What instantly stuck out was that Hugo is implemented in Go (which is a language I personally love :heart:) claimed to be much faster than the more mainstream alternatives.
+It became glaring after some research that what I needed was a static site generator. While searching through [StaticGen](https://www.staticgen.com/) for a static site generator to use, I stumbled upon [Hugo](https://gohugo.io/). What instantly stuck out was that Hugo is implemented in Go (which is a language I personally love :heart:) and claimed to be much faster than the more mainstream alternatives.
 
 {{< figure src="https://forestry.io/uploads/2018/01/hugo-vs-jekyll-totals.jpg" alt="hugo-vs-jekyll" caption="Hugo vs Jekyll by [Forestry](https://forestry.io/blog/hugo-vs-jekyll-benchmark/#a-clear-winner)">}}
 
 # Final Thoughts
 
-Hugo has excellent documentation and [this]() guide will get you set up in under five minutes. Also adding new pages is as simple as creating new markdown files in the `/content` directory, which was easy, convenient and exactly what I was looking for. Finally, deployed the site on Netlify which automatically rebuilds and publishes the site on every push to the main branch.
+Hugo has excellent documentation and [this]() guide will get you set up in under five minutes. Also adding new pages is as simple as creating new markdown files in the `/content` directory, which was easy, convenient and exactly what I was looking for. Finally, deployed the site on Netlify which automatically rebuilds and publishes the website on every push to the main branch.
 
-Overall I am very pleased with the setup and look forward to writing more blog posts soon! 
+Overall I am happy with the setup and look forward to writing more blog posts soon! 
