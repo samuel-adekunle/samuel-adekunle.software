@@ -1,69 +1,66 @@
-baseURL = "https://www.samuel-adekunle.software/"
-languageCode = "en-us"
-defaultContentLanguage = "en"
-title = "Samuel Adekunle"
-theme = "hermit"
-pygmentsCodefences  = true
-pygmentsUseClasses  = true
-rssLimit = 10  # Maximum number of items in the RSS feed.
+baseURL = "https://www.samuel-adekunle.software/" 
 copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License." # This message is only used by the RSS template.
-enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/functions/emojify/
+defaultContentLanguage = "en" 
+enableEmoji = true # Shorthand emojis in content files - https://gohugo.io/functions/emojify/
+languageCode = "en-us" 
+pygmentsCodefences = true 
+pygmentsUseClasses = true 
+rssLimit = 10 # Maximum number of items in the RSS feed.
+theme = "hermit" 
+title = "Samuel Adekunle" 
 
 [author]
-  name = "Samuel Adekunle"
+name = "Samuel Adekunle"
 
 [blackfriday]
-  hrefTargetBlank = false
-  noreferrerLinks = false
-  nofollowLinks = false
+hrefTargetBlank = false
+nofollowLinks = false
+noreferrerLinks = false
 
 [taxonomies]
-  tag = "tags"
+tag = "tags"
 
 [params]
-  dateform        = "Jan 2, 2006"
-  dateformShort   = "Jan 2"
-  dateformNum     = "2006-01-02"
-  dateformNumTime = "2006-01-02 15:04"
+dateform = "Jan 2, 2006"
+dateformNum = "2006-01-02"
+dateformNumTime = "2006-01-02 15:04"
+dateformShort = "Jan 2"
 
-  description = "Samuel Adekunle's Website"
-  images = ["cover.jpg"]
-  themeColor = "#494f5c"
+description = "Samuel Adekunle's Website"
+images = ["cover.jpg"]
+themeColor = "#494f5c"
 
-  homeSubtitle = "Web Developer at Imperial Junior Solutions · Electrical and Electronic Engineering · Imperial College London"
-  footerCopyright = ' &#183; <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
-  bgImg = "cover.jpg"
+bgImg = "cover.jpg"
+footerCopyright = ' &#183; <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+homeSubtitle = "Web Developer at Imperial Junior Solutions · Electrical and Electronic Engineering · Imperial College London"
 
-  relatedPosts = true  # Add a related content section to all single posts page
+relatedPosts = true # Add a related content section to all single posts page
 
-  code_copy_button = true # Turn on/off the code-copy-button for code-fields
-  
-  [[params.social]]
-    name = "email"
-    url = "mailto://samueladekunle2002@yahoo.co.uk"
+code_copy_button = true # Turn on/off the code-copy-button for code-fields
+[[params.social]]
+name = "email"
+url = "mailto://samueladekunle2002@yahoo.co.uk"
 
-  [[params.social]]
-    name = "github"
-    url = "https://github.com/SamtheSaint"
-  
-  [[params.social]]
-    name = "linkedin"
-    url = "https://www.linkedin.com/in/sam-adekunle-2002/"
+[[params.social]]
 
-  [[params.social]]
-    name = "facebook"
-    url = "https://www.facebook.com/samuel.adekunle.142"
+name = "github"
+url = "https://github.com/SamtheSaint"
+[[params.social]]
+name = "linkedin"
+url = "https://www.linkedin.com/in/sam-adekunle-2002/"
 
-
+[[params.social]]
+name = "facebook"
+url = "https://www.facebook.com/samuel.adekunle.142"
 
 [menu]
 
-  [[menu.main]]
-    name = "Posts"
-    url = "posts/"
-    weight = 10
+[[menu.main]]
+name = "Posts"
+url = "posts/"
+weight = 10
 
-  [[menu.main]]
-    name = "About"
-    url = "about/"
-    weight = 20
+[[menu.main]]
+name = "About"
+url = "about/"
+weight = 20
