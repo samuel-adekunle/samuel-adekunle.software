@@ -32,6 +32,6 @@ It became glaring after some research that what I needed was a static site gener
 
 # Final Thoughts
 
-Hugo has excellent documentation and [this]() guide will get you set up in under five minutes. Also adding new pages is as simple as creating new markdown files in the `/content` directory, which was easy, convenient and exactly what I was looking for. Finally, deployed the site on Netlify which automatically rebuilds and publishes the website on every push to the main branch.
+Hugo has excellent documentation and [this](https://gohugo.io/getting-started/quick-start/) guide will get you set up in under five minutes. Also adding new pages is as simple as creating new markdown files in the `/content` directory, which was easy, convenient and exactly what I was looking for. Finally, deployed the site on Netlify which automatically rebuilds and publishes the website on every push to the main branch.
 
 Overall I am happy with the setup and look forward to writing more blog posts soon! 
