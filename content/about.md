@@ -8,14 +8,18 @@ images:
 comments: false
 ---
 
-:wave: Hey there. I'm Sam and welcome to my site.
+:wave: Hey there. I'm Samuel and welcome to my site.
 
-:computer: I am an aspiring software engineer and student at Imperial College London. I study MEng Electrical and Information Engineering.
+:computer: I am an software developer and student at Imperial College London. 
 
 :uk: I am based in London, UK.
 
 :basketball: I enjoy playing sports, especially basketball and table tennis.
 
-If you are a recruiter, please take a look at my [CV](/cv.pdf). You can find out more details about me and my projects in the [blog](/posts) section of the website. Also check out my [Github](https://github.com/SamtheSaint/).
+:memo: If you are a recruiter, please take a look at my [CV](/cv.pdf) for more information. 
 
-You can get in touch with me via [Email](mailto://samueladekunle2002@yahoo.co.uk), [LinkedIn](https://www.linkedin.com/in/sam-adekunle-2002/) or [Facebook](https://www.facebook.com/samuel.adekunle.142).
+:newspaper: And while you are here, don't forget to take a look at my [blog](/posts).
+
+:wrench: I also have some projects you should check out on [github](https://github.com/SamtheSaint/).
+
+:mailbox_with_no_mail: You can get in touch with me via [Email](mailto://me@samuel-adekunle.software) or connect with me on [LinkedIn](https://www.linkedin.com/in/sam-adekunle-2002/)
