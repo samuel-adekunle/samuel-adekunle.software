@@ -13,9 +13,9 @@ title = "Samuel Adekunle"
 name = "Samuel Adekunle"
 
 [blackfriday]
-hrefTargetBlank = false
-nofollowLinks = false
-noreferrerLinks = false
+hrefTargetBlank = true
+nofollowLinks = true
+noreferrerLinks = true
 
 [taxonomies]
 tag = "tags"
