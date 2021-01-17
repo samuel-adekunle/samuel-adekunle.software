@@ -49,10 +49,6 @@ url = "https://github.com/SamtheSaint"
 name = "linkedin"
 url = "https://www.linkedin.com/in/sam-adekunle-2002/"
 
-[[params.social]]
-name = "facebook"
-url = "https://www.facebook.com/samuel.adekunle.142"
-
 [menu]
 
 [[menu.main]]
