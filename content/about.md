@@ -20,6 +20,6 @@ comments: false
 
 :newspaper: And while you are here, don't forget to take a look at my [blog](/posts).
 
-:wrench: I also have some projects you should check out on [github](https://github.com/SamtheSaint/).
+:wrench: I also have some projects you should check out on [Github](https://github.com/SamtheSaint/).
 
 :mailbox_with_no_mail: You can get in touch with me via [Email](mailto://me@samuel-adekunle.software) or connect with me on [LinkedIn](https://www.linkedin.com/in/sam-adekunle-2002/)
