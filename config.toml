@@ -1,4 +1,4 @@
-baseURL = "https://www.samuel-adekunle.software/" 
+baseURL = "https://samuel-adekunle.software/" 
 copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License." # This message is only used by the RSS template.
 defaultContentLanguage = "en" 
 enableEmoji = true # Shorthand emojis in content files - https://gohugo.io/functions/emojify/
