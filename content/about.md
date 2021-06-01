@@ -8,9 +8,9 @@ images:
 comments: false
 ---
 
-:wave: Hey there. I'm Samuel and welcome to my site.
+:wave: Hey there and welcome to my site.
 
-:computer: I am an software developer and student at Imperial College London. 
+:computer: I am a software developer and student at Imperial College London. 
 
 :uk: I am based in London, UK.
 
@@ -22,4 +22,4 @@ comments: false
 
 :wrench: I also have some projects you should check out on [Github](https://github.com/SamtheSaint/).
 
-:mailbox_with_no_mail: You can get in touch with me via [Email](mailto://me@samuel-adekunle.software) or connect with me on [LinkedIn](https://www.linkedin.com/in/sam-adekunle-2002/)
+:mailbox_with_no_mail: You can get in touch with me via [Email](mailto://me@samuel-adekunle.software) or connect with me on [LinkedIn](https://www.linkedin.com/in/samuel-adekunle/)
