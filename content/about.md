@@ -12,9 +12,9 @@ comments: false
 
 :computer: I'm a full stack iOS and web developer who loves programming, travelling and basketball.
 
-:school: I'm a second year Electronic and Information Engineering student at Imperial College London.
+:school: I'm a second year Electronic and Information Engineering student at Imperial College.
 
-:scientist: As a software engineer, I enjoy figuring out how things work and solving difficult challenges.
+:man_scientist: As a software engineer, I enjoy figuring out how things work and solving difficult challenges.
 
 :globe_with_meridians: My main interests are cloud computing and distributed systems.
 
