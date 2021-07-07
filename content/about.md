@@ -20,7 +20,7 @@ comments: false
 
 :memo: If you are a recruiter, please take a look at my [CV](/cv.pdf) for more information. 
 
-:newspaper: And while you are here, why not take a look at some of my [blog](/posts).
+:newspaper: And while you are here, why not take a look at some of my [posts](/posts).
 
 :wrench: I also have some really cool projects you should check out on [Github](https://github.com/samuel-adekunle/).
 
