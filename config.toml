@@ -26,13 +26,13 @@ dateformNum = "2006-01-02"
 dateformNumTime = "2006-01-02 15:04"
 dateformShort = "Jan 2"
 
-description = "Samuel Adekunle's Website"
+description = "Samuel Adekunle's Personal Website"
 images = ["cover.jpg"]
 themeColor = "#494f5c"
 
 bgImg = "cover.jpg"
 footerCopyright = ' &#183; <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
-homeSubtitle = "Incoming STEP @ Google · Incoming President @ Imperial Junior Solutions · EIE II @ Imperial College London"
+homeSubtitle = "Lead Developer @ The Choral Hub · President @ Imperial Junior Solutions · EIE II @ Imperial College London"
 
 relatedPosts = true # Add a related content section to all single posts page
 
@@ -48,6 +48,9 @@ url = "https://github.com/samuel-adekunle"
 [[params.social]]
 name = "linkedin"
 url = "https://www.linkedin.com/in/samuel-adekunle/"
+[[params.social]]
+name="twitter"
+url = "https://twitter.com/femi__ade"
 
 [menu]
 
