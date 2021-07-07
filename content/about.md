@@ -8,18 +8,20 @@ images:
 comments: false
 ---
 
-:wave: Hey there and welcome to my site.
+:wave: Hi there, I'm glad to see you made it here.
 
-:computer: I am a software developer and student at Imperial College London. 
+:computer: I'm a full stack iOS and web developer who loves programming, travelling and basketball.
 
-:uk: I am based in London, UK.
+:school: I'm a second year Electronic and Information Engineering student at Imperial College London.
 
-:basketball: I enjoy playing sports, especially basketball and table tennis.
+:scientist_medium_skin_tone: As a software engineer, I enjoy figuring out how things work and solving difficult challenges.
+
+:globe_with_meridians: My main interests are cloud computing and distributed systems.
 
 :memo: If you are a recruiter, please take a look at my [CV](/cv.pdf) for more information. 
 
-:newspaper: And while you are here, don't forget to take a look at my [blog](/posts).
+:newspaper: And while you are here, why not take a look at some of my [blog](/posts).
 
-:wrench: I also have some projects you should check out on [Github](https://github.com/SamtheSaint/).
+:wrench: I also have some really cool projects you should check out on [Github](https://github.com/SamtheSaint/).
 
-:mailbox_with_no_mail: You can get in touch with me via [Email](mailto://me@samuel-adekunle.software) or connect with me on [LinkedIn](https://www.linkedin.com/in/samuel-adekunle/)
+:mailbox_with_no_mail: You can get in touch with me via [Email](mailto://me@samuel-adekunle.software), follow me on [Twitter](https://twitter.com/femi__ade) or connect with me on [LinkedIn](https://www.linkedin.com/in/samuel-adekunle/)
