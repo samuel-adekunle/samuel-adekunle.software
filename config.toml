@@ -32,7 +32,7 @@ themeColor = "#494f5c"
 
 bgImg = "cover.jpg"
 footerCopyright = ' &#183; <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
-homeSubtitle = "Lead Developer @ The Choral Hub · President @ Imperial Junior Solutions · EIE II @ Imperial College London"
+homeSubtitle = "Lead Developer @ Choral Hub · President @ Imperial Junior Solutions · EIE II @ Imperial College London"
 
 relatedPosts = true # Add a related content section to all single posts page
 
