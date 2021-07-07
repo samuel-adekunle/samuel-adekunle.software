@@ -14,7 +14,7 @@ comments: false
 
 :school: I'm a second year Electronic and Information Engineering student at Imperial College London.
 
-:scientist_medium_skin_tone: As a software engineer, I enjoy figuring out how things work and solving difficult challenges.
+:scientist: As a software engineer, I enjoy figuring out how things work and solving difficult challenges.
 
 :globe_with_meridians: My main interests are cloud computing and distributed systems.
 
@@ -24,4 +24,4 @@ comments: false
 
 :wrench: I also have some really cool projects you should check out on [Github](https://github.com/samuel-adekunle/).
 
-:mailbox_with_no_mail: You can get in touch with me via [Email](mailto://me@samuel-adekunle.software), follow me on [Twitter](https://twitter.com/femi__ade) or connect with me on [LinkedIn](https://www.linkedin.com/in/samuel-adekunle/)
+:mailbox_with_no_mail: You can get in touch with me via [Email](mailto://me@samuel-adekunle.software), [Twitter](https://twitter.com/femi__ade) or [LinkedIn](https://www.linkedin.com/in/samuel-adekunle/).
