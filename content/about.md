@@ -10,11 +10,11 @@ comments: false
 
 :wave: Hi there, I'm glad to see you made it here.
 
-:computer: I'm a full stack iOS and web developer who loves programming, travelling and basketball.
+:computer: I'm a full stack iOS and web developer who loves travelling and basketball.
 
-:school: I'm a second year Electronic and Information Engineering student at Imperial College.
+:school: I'm a second year Electronic Information Engineering student at Imperial College.
 
-:man_scientist: As a software engineer, I enjoy figuring out how things work and solving difficult challenges.
+:man_scientist: As a software engineer, I enjoy figuring out how things work and solving problems.
 
 :globe_with_meridians: My main interests are cloud computing and distributed systems.
 
