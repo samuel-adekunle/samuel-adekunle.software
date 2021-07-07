@@ -18,7 +18,7 @@ comments: false
 
 :globe_with_meridians: My main interests are cloud computing and distributed systems.
 
-:memo: If you are a recruiter, please take a look at my [CV](/cv.pdf) for more information. 
+:memo: If you are a recruiter, please take a look at my [resume](/cv.pdf) for more information. 
 
 :newspaper: And while you are here, why not take a look at some of my [posts](/posts).
 
