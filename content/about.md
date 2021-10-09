@@ -10,18 +10,16 @@ comments: false
 
 :wave: Hi there, I'm glad to see you made it here.
 
-:computer: I'm a full stack iOS and web developer who loves travelling and basketball.
+:computer: I'm a full-stack iOS and web developer, and I work mainly with JavaScript, Python, Swift and GCP.
 
-:school: I'm a second year Electronic Information Engineering student at Imperial College.
-
-:man_scientist: As a software engineer, I enjoy figuring out how things work and solving problems.
+:wrench: However, I am also proficient with C++, Golang, TypeScript, SQL and AWS.
 
 :globe_with_meridians: My main interests are cloud computing and distributed systems.
 
-:memo: If you are a recruiter, please take a look at my [resume](/cv.pdf) for more information. 
+:man_scientist: As a software engineer, I enjoy figuring out how things work and solving problems.
 
-:newspaper: And while you are here, why not take a look at some of my [posts](/posts).
+:school: I'm currently in my third year of an MEng in Electronic and Information Engineering at Imperial College London.
 
-:wrench: I also have some really cool projects you should check out on [Github](https://github.com/samuel-adekunle/).
+:memo: To discover more check out my [Github](https://github.com/samuel-adekunle) and [CV](/cv.pdf).
 
 :mailbox_with_no_mail: You can get in touch with me via [Email](mailto://me@samuel-adekunle.software), [Twitter](https://twitter.com/femi__ade) or [LinkedIn](https://www.linkedin.com/in/samuel-adekunle/).

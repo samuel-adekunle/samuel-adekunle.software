@@ -1,9 +1,9 @@
-baseURL = "https://samuel-adekunle.software/" 
+baseURL = "https://samuel-adekunle.software/"
 copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License." # This message is only used by the RSS template.
-defaultContentLanguage = "en" 
+defaultContentLanguage = "en"
 enableEmoji = true # Shorthand emojis in content files - https://gohugo.io/functions/emojify/
-languageCode = "en-gb" 
-pygmentsCodefences = true 
+languageCode = "en-gb"
+pygmentsCodefences = true
 pygmentsUseClasses = true 
 rssLimit = 10 # Maximum number of items in the RSS feed.
 theme = "hermit" 
@@ -32,22 +32,24 @@ themeColor = "#494f5c"
 
 bgImg = "cover.jpg"
 footerCopyright = ' &#183; <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
-homeSubtitle = "Lead Developer @ Choral Hub · President @ Imperial Junior Solutions · EIE II @ Imperial College London"
+homeSubtitle = "Lead Developer @ Choral Hub · President @ Imperial Junior Solutions · EIE III @ Imperial College London"
 
 relatedPosts = true # Add a related content section to all single posts page
 
 code_copy_button = true # Turn on/off the code-copy-button for code-fields
+
 [[params.social]]
 name = "email"
 url = "mailto://me@samuel-adekunle.software"
 
 [[params.social]]
-
 name = "github"
 url = "https://github.com/samuel-adekunle"
+
 [[params.social]]
 name = "linkedin"
 url = "https://www.linkedin.com/in/samuel-adekunle/"
+
 [[params.social]]
 name="twitter"
 url = "https://twitter.com/femi__ade"
@@ -55,11 +57,6 @@ url = "https://twitter.com/femi__ade"
 [menu]
 
 [[menu.main]]
-name = "Posts"
-url = "posts/"
-weight = 10
-
-[[menu.main]]
 name = "About"
 url = "about/"
-weight = 20
+weight = 10
