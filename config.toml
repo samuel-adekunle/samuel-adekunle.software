@@ -32,7 +32,7 @@ themeColor = "#494f5c"
 
 bgImg = "cover.jpg"
 footerCopyright = ' &#183; <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
-homeSubtitle = "Lead Developer @ Choral Hub · President @ Imperial Junior Solutions · EIE III @ Imperial College London"
+homeSubtitle = "Software Engineer at Google"
 
 relatedPosts = true # Add a related content section to all single posts page
 
@@ -49,10 +49,6 @@ url = "https://github.com/samuel-adekunle"
 [[params.social]]
 name = "linkedin"
 url = "https://www.linkedin.com/in/samuel-adekunle/"
-
-[[params.social]]
-name="twitter"
-url = "https://twitter.com/femi__ade"
 
 [menu]
 
